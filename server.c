@@ -1,7 +1,5 @@
 /*
- * Delta's VPN - Server
- * for CIS644 VPN Project
- * Instructor: Kevin Du
+ * LMiniVPN - Server
  * Author: Zhouyu Lin
  *
  */

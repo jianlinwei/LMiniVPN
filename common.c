@@ -1,7 +1,5 @@
 /*
- * Delta's VPN - Common Part
- * for CIS644 VPN Project
- * Instructor: Kevin Du
+ * LMiniVPN - Common Part
  * Author: Zhouyu Lin
  *
  */

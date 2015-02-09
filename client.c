@@ -1,7 +1,5 @@
 /*
- * Delta's VPN - Client
- * for CIS644 VPN Project
- * Instructor: Kevin Du
+ * LMiniVPN - Client
  * Author: Zhouyu Lin
  *
  */

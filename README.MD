@@ -1,4 +1,7 @@
-Delta's VPN
+LMiniVPN
+
+Linux Mini VPN
+by Delta L.
 
 Server:
 # ./DVServer -d
